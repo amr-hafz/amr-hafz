@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Amr+Hafz;.NET+Full+Stack+Developer;Teaching+Assistant+%40+AASTMT;1+Year+Experience+%7C+10%2B+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Amr+Hafz;.NET+Full+Stack+Developer;Teaching+Assistant;1+Year+Experience+%7C+10%2B+Projects" alt="Typing SVG" />
 
 <br/>
 
@@ -16,12 +16,11 @@
 
 ## 👨‍💻 About Me
 
-Junior **.NET Full Stack Developer** with 1 year of professional experience across **10+ projects** in real companies and training programs. Backend-first but comfortable across the full stack.
+Junior **.NET Full Stack Developer** with 1 year of professional experience across **10+ projects**. Currently working as a Full Stack Developer & Teaching Assistant. Backend-first but comfortable across the full stack.
 
-- 🏢 **Full Stack Developer** @ TAKUMI *(Current)*
-- 🎓 **Teaching Assistant** @ AASTMT — Smart Village & Sheraton *(Current)*
 - 💡 I jump into complex projects and deliver tasks exactly as required
-- 🌍 Based in Egypt | CS Graduate — Benha University (GPA: 3.785 / 4)
+- 🎓 CS Graduate — Benha University (GPA: 3.785 / 4)
+- 🌍 Based in Egypt
 
 ---
 
@@ -61,22 +60,26 @@ Junior **.NET Full Stack Developer** with 1 year of professional experience acro
 
 <div align="center">
 
-![Amr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amr-hafz&show_icons=true&theme=tokyonight&hide_border=true)
+![Amr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amr-hafz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amr-hafz&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=amr-hafz&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 💼 Experience
+## 🐍 Contribution Snake
 
-| Role | Company | Period |
-|---|---|---|
-| 🔧 Full Stack Developer | TAKUMI | Current |
-| 🎓 Teaching Assistant | AASTMT (Smart Village + Sheraton) | Current |
-| 🌐 Full Stack Developer | Deeb Reilities | Jul – Nov 2025 |
-| 👨‍🏫 Cloud Computing Instructor | Perfect Academy | Nov – Dec 2025 |
-| 📚 Instructor | iSchool | Jul – Oct 2025 |
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/amr-hafz/amr-hafz/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
