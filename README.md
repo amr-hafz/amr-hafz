@@ -1,13 +1,14 @@
 <div align="center">
 
-# Amr Hafz — عمرو حافظ
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Amr+Hafz;.NET+Full+Stack+Developer;Teaching+Assistant+%40+AASTMT;1+Year+Experience+%7C+10%2B+Projects" alt="Typing SVG" />
 
-### .NET Backend Developer · Full Stack · Technical Instructor
-
-*Junior with 1 year of experience · 10+ projects delivered · GPA 3.785 / 4*
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr-hafz-36854b263/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Amrhafz57@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amr-hafz)
+
+![Profile Views](https://komarev.com/ghpvc/?username=amr-hafz&color=58A6FF&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -15,73 +16,71 @@
 
 ## 👨‍💻 About Me
 
-Junior **.NET Backend Developer** with 1 year of professional experience across **10+ projects** in real companies and training programs. I work comfortably across the full stack — backend-first but not backend-only.
+Junior **.NET Full Stack Developer** with 1 year of professional experience across **10+ projects** in real companies and training programs. Backend-first but comfortable across the full stack.
 
-- 🏢 Currently: **Full Stack Developer @ TAKUMI** + **Teaching Assistant @ AASTMT**
-- 🎓 CS Graduate — Benha University (Excellent / 3.785 GPA)
-- 💡 I can jump into complex projects and deliver tasks exactly as required
-- 🌍 Based in Egypt
+- 🏢 **Full Stack Developer** @ TAKUMI *(Current)*
+- 🎓 **Teaching Assistant** @ AASTMT — Smart Village & Sheraton *(Current)*
+- 💡 I jump into complex projects and deliver tasks exactly as required
+- 🌍 Based in Egypt | CS Graduate — Benha University (GPA: 3.785 / 4)
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Backend**
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-333?style=flat-square)
+<div align="center">
 
-**Database**
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-**Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+</div>
 
 ---
 
-## 🚀 Highlighted Projects
+## 🚀 Featured Projects
 
-| Project | Description | Stack |
+| Project | Description | Tech |
 |---|---|---|
-| **EduFocus** | AI-powered student monitoring system with facial recognition & real-time focus tracking | .NET · SignalR · React · AI Models |
-| **Online Courses Platform** | Full-stack LMS with auth, admin dashboard, course & progress management | .NET · SQL Server · JS |
-| **Online Library System** | Digital library with book browsing, borrowing, and user management (ITI project) | ASP.NET · SQL Server |
-| **E-Commerce Website** | Full e-commerce site with cart, checkout, admin panel & inventory management | .NET · SQL Server · JS |
-| **Gym Management System** | Desktop app for gym client & subscription management (Freelance) | .NET · SQL Server |
+| 🎓 [**EduFocus**](https://github.com/amr-hafz/EduFocus) | AI-powered student monitoring with facial recognition & real-time focus tracking | .NET · SignalR · React · AI |
+| 📚 [**Online Courses Platform**](https://github.com/amr-hafz/OnlineCourses-Platform) | Full-stack LMS with auth, course management & progress tracking | .NET · SQL Server · EF Core |
+| 🛒 [**E-Commerce Website**](https://github.com/amr-hafz/ECommerce-Chairs) | Full e-commerce with cart, checkout & admin dashboard | ASP.NET MVC · SQL Server |
+| 🏋️ [**Gym Management System**](https://github.com/amr-hafz/Gym-Management-Cutler_Gym) | Desktop app with QR attendance, subscriptions & WhatsApp notifications | .NET WinForms · SQLite |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Amr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amr-hafz&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amr-hafz&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
 ## 💼 Experience
 
-- 🔧 **Full Stack Developer** — TAKUMI *(Current)*
-- 🎓 **Teaching Assistant** — AASTMT, Smart Village & Sheraton *(Current)*
-- 🌐 **Full Stack Developer** — Deeb Reilities *(Jul – Nov 2025)*
-- 👨‍🏫 **Cloud Computing Instructor** — Perfect Academy *(Nov – Dec 2025)*
-- 📚 **Instructor** — iSchool *(Jul – Oct 2025)*
-
----
-
-## 📚 Training
-
-- 🏅 **DEPI** — .NET Web Developer Program (159 hrs)
-- 🏅 **ITI** — .NET Web Development Track (120 hrs)
-- 🏅 **ITI** — Front-End Web Development Track (~80 hrs)
+| Role | Company | Period |
+|---|---|---|
+| 🔧 Full Stack Developer | TAKUMI | Current |
+| 🎓 Teaching Assistant | AASTMT (Smart Village + Sheraton) | Current |
+| 🌐 Full Stack Developer | Deeb Reilities | Jul – Nov 2025 |
+| 👨‍🏫 Cloud Computing Instructor | Perfect Academy | Nov – Dec 2025 |
+| 📚 Instructor | iSchool | Jul – Oct 2025 |
 
 ---
 
 <div align="center">
-  <i>Open to backend .NET roles and technical instructor opportunities</i><br/>
-  <a href="mailto:Amrhafz57@gmail.com">Amrhafz57@gmail.com</a> · 01555489842
+  <i>Open to .NET backend roles and technical instructor opportunities</i><br/>
+  <b>Amrhafz57@gmail.com</b> · <b>01555489842</b>
 </div>
