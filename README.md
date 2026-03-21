@@ -55,7 +55,7 @@ Junior **.NET Backend Developer** with 1 year of professional experience across 
 
 | Project | Description | Stack |
 |---|---|---|
-| **EduFocus** | AI-powered student monitoring system with facial recognition & real-time focus tracking | Python · CV · AI |
+| **EduFocus** | AI-powered student monitoring system with facial recognition & real-time focus tracking | .NET · SignalR · React · AI Models |
 | **Online Courses Platform** | Full-stack LMS with auth, admin dashboard, course & progress management | .NET · SQL Server · JS |
 | **Online Library System** | Digital library with book browsing, borrowing, and user management (ITI project) | ASP.NET · SQL Server |
 | **E-Commerce Website** | Full e-commerce site with cart, checkout, admin panel & inventory management | .NET · SQL Server · JS |
