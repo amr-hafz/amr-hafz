@@ -61,24 +61,8 @@ Junior **.NET Full Stack Developer** with 1 year of professional experience acro
 
 <div align="center">
 
-![Amr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amr-hafz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Amr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amr-hafz&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amr-hafz&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=amr-hafz&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/amr-hafz/amr-hafz/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
